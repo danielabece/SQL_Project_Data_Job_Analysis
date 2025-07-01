@@ -20,10 +20,10 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 25
+LIMIT 25;
 
 /*
-Here's a  reakdown of the resukts for top paying skills:
+Here's a breakdown of the resukts for top paying skills:
 - Engineering-heavy and cloud-based skills (like PySpark, Databricks, Kubernetes, GCP) lead to higher salaries — data analysts with big data & cloud experience are in demand.
 - Python data stack (Pandas, Numpy, Scikit-learn, Jupyter) remains a core foundation, but adding machine learning or automation boosts value.
 - DevOps & software engineering practices (GitLab, Jenkins, Bitbucket, Linux) are increasingly expected — analysts who can contribute to production-level systems earn more.
